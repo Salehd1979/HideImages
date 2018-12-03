@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">About</string>
+
+    <string name="enter_folder_path">Enter folder path</string>
+
+    <string name="show_images">Show Images</string>
+
+    <string name="chose_directory">Chose directory</string>
+    <string name="hide_images">Hide Images</string>
+
+
+    <string name="app_name">Hide Images</string>
+    <string name="hello_world">Hello world!</string>
+
+	
+	<string name="intro">Enter folder path to hide/show Images in device Gallery for this folder and all subfolders\nThis work by creating or deleting .nomedia file</string>
+	<string name="version">2</string>
+    <string name="version_number">Version Number: </string>
+    <string name="support_us">Support us by donation to the following bitcoin Address</string>
+    <string name="bitcoin_address">1BNxn4TDeY48D5PyPQYmArX5uD25EZJpsa</string>
+	
+</resources>
